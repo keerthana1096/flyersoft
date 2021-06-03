@@ -1,0 +1,21 @@
+.footer{
+    background-color: rgb(63, 68, 63);
+}
+.title{
+    color:ivory;
+    font-family: Papyrus, fantasy;
+}
+.details{
+    color:ivory;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.date{
+color: rgb(204, 204, 30);
+}
+.icons{
+    
+    color:ivory;
+    margin-top: 20px;
+}

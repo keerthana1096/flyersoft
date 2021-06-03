@@ -1,0 +1,73 @@
+.about {
+
+    width: 1370px;
+    height: 500px;
+  
+   
+    background: 
+    
+    url("../assets/image4.jpg")
+  }
+  .abtitle{
+      margin-top: 10px;
+      color:white;
+      font-family: Papyrus, fantasy;
+      font-weight: bolder;
+      font-size: 60px;
+  }
+  .subtitle{
+    margin-top: 30%;
+    color:white;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .discoverbutton{
+      background-color: rgb(233, 233, 13);
+      color:black;
+      padding: 15px 15px 15px 15px;
+      border-color: transparent;
+
+  }
+  .prev{
+      margin-top: 142%;
+      padding: 15px 15px 15px 15px;
+      margin-left: 50%;
+  }
+  .next{
+    margin-top: 140%;
+    padding: 15px 25px 15px 25px;
+    background-color: black;
+    color:white
+  }
+  .img2{
+      
+      height:850px ;
+      width:850px
+  }
+  .sidetitle{
+      margin-left: 20%;
+      margin-top:10%;
+      font-family: Papyrus, fantasy;
+      font-weight: bolder;
+      font-size: 20px;
+      line-height: 40px;
+  }
+  .psub{
+      font-size: 12px;
+      margin-left: 20%;
+      margin-top:10%;
+      color:grey;
+      font-weight: bold;
+
+  }
+  .h4de{
+    margin-left: 20%;
+    font-size: 20px;
+  }
+  .learnmore{
+    background-color: rgba(209, 196, 14, 0.658);
+    color:black;
+    padding: 15px 15px 15px 15px;
+    border-color: transparent;
+    margin-left: 20%;
+  }
